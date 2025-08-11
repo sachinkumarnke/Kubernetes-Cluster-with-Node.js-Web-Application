@@ -2,6 +2,11 @@
 
 This repository demonstrates setting up a local Kubernetes cluster using Minikube and deploying a Node.js web application. The project includes a simple Express.js server serving a static website, containerized with Docker and orchestrated using Kubernetes.
 
+<img width="1916" height="616" alt="image" src="https://github.com/user-attachments/assets/9bfc91a1-7157-45eb-afc0-12c21e7127ab" />
+
+
+<img width="1090" height="435" alt="Screenshot 2025-08-11 232817" src="https://github.com/user-attachments/assets/a9e1d3fc-0598-44b2-b895-1b1b7e05b3d2" />
+
 ## Project Overview
 
 - Simple Node.js/Express web application
